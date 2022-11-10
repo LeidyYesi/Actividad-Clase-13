@@ -14,4 +14,4 @@ Requisitos:
     ° Una cuenta de GitHub: para crearla podemos acceder a ​https://github.com​. En caso de que 
 ya tengamos una cuenta, simplemente ingresamos con nuestro usuario. 
     ° Tener Git instalado en la computadora: para esto deberemos seguir la guía de instalación 
-que se encuentra disponible en el campus o en ​https://git-scm.com/downloads​.
+que se encuentra disponible en el campus o en ​https://git-scm.com/downloads​. 

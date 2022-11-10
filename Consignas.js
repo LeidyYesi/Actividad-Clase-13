@@ -1,4 +1,4 @@
-Consignas 
+/*Consignas 
  
 Durante las consignas nos referiremos a los participantes como ​A ​y ​B​. 
  
@@ -63,4 +63,4 @@ cambios hayan sido aplicados.
 9. ¡Ejercitación libre! 
 Ahora les toca a ustedes: creen nuevos archivos, modifiquen los existentes, generen 
 conflictos y resuélvanlos.
-
+*/
