@@ -1,3 +1,7 @@
-let campaña = "Clarin Ventas"
+//let campaña = "Clarin Ventas"
+//console.log(campaña);
 
-console.log(campaña);
+function campaña(mensaje){
+    return (mensaje)
+}
+console.log(campaña("Clarin miente!"));
