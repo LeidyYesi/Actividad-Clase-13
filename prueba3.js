@@ -2,8 +2,7 @@ let saludo = "¿que onda?"
 
 console.log(saludo);
 
-function cuadruple(numero) {
-    return 4* numero;
- }
- 
- console.log(cuadruple(5));
+function saludo2(mensaje){
+    return (mensaje)
+}
+console.log(saludo2("Chau Mundo!"))
